@@ -1,9 +1,6 @@
 package com.sli.code.rpc.Components.comm;
 
-/**
- * RPC Response
- * @author huangyong
- */
+
 public class RpcResponse {
 
     private String requestId;

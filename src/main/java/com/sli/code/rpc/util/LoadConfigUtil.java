@@ -1,6 +1,5 @@
 package com.sli.code.rpc.util;
 
-import java.io.FileNotFoundException;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Collections;

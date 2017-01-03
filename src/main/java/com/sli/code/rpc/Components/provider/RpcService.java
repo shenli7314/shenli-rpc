@@ -6,11 +6,6 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 import org.springframework.stereotype.Component;
 
-/**
- * RPC annotation for RPC service
- *
- * @author huangyong
- */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
 @Component // 表明可被 Spring 扫描
